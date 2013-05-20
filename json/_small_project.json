@@ -1,0 +1,124 @@
+{"previews": {
+    "backendPreviewCallback": "http://localhost:8888/preview_update",
+    "oldimages": []
+}, "anim": {
+    "dimension": [550, 450],
+    "scenes": ["396926906fbad58929331402"],
+    "background": {
+        "color": "white"
+    },
+    "elements": [
+        {
+            "id": "28a89201cd629a8839fc4c06",
+            "stroke": {
+                "cap": "",
+                "width": 1,
+                "paint": {
+                    "color": "#3F4C6B"
+                },
+                "join": ""
+            },
+            "fill": {
+                "color": "#6BBA70"
+            },
+            "path": "M0.0 32.5 C0.0 14.551 24.624 0.0 55.0 0.0 C85.376 0.0 110.0 14.551 110.0 32.5 C110.0 50.449 85.376 65.0 55.0 65.0 C24.624 65.0 0.0 50.449 0.0 32.5 Z"
+        },
+        {
+            "id": "396926906fbad58929331402",
+            "layers": [
+                {
+                    "dynamic": false,
+                    "id": "ad278e5ab4ed6c10aaf64bbc",
+                    "band": [0, 2.1],
+                    "visible": true,
+                    "outline-color": "blue",
+                    "opaque": false,
+                    "reg": [0, 0],
+                    "name": "Layer 1",
+                    "last-frames-defined": [],
+                    "locked": false,
+                    "outline": false,
+                    "eid": "a1747f75d378a675d75a9409"
+                }
+            ],
+            "name": "Scene1",
+            "on-end": "STOP"
+        },
+        {
+            "id": "a1747f75d378a675d75a9409",
+            "layers": [
+                {
+                    "dynamic": true,
+                    "visible": true,
+                    "last-frames-defined": ["Translate"],
+                    "outline": false,
+                    "eid": "28a89201cd629a8839fc4c06",
+                    "id": "354ce0201489b5f9093166c2",
+                    "band": [0, 2.1],
+                    "outline-color": "green",
+                    "reg": [55, 32.5],
+                    "opaque": false,
+                    "name": "Oval2",
+                    "locked": false,
+                    "tweens": [
+                        {
+                            "band": [0, 2.1],
+                            "path": "M365.0 263.5 L63.0 418.0 Z",
+                            "type": "Translate"
+                        }
+                    ]
+                },
+                {
+                    "dynamic": true,
+                    "visible": true,
+                    "last-frames-defined": ["Translate"],
+                    "outline": false,
+                    "eid": "bd80b70bf5db1cc9d8e1a106",
+                    "id": "c3dd30ef0303e806e5da31e8",
+                    "band": [0, 2.1],
+                    "outline-color": "red",
+                    "reg": [58, 62.5],
+                    "opaque": false,
+                    "name": "Oval1",
+                    "locked": false,
+                    "tweens": [
+                        {
+                            "band": [0, 2.1],
+                            "path": "M125.0 189.5 L478.0 406.0 Z",
+                            "type": "Translate"
+                        }
+                    ]
+                }
+            ],
+            "name": "Layer 1"
+        },
+        {
+            "id": "bd80b70bf5db1cc9d8e1a106",
+            "stroke": {
+                "cap": "",
+                "width": 1,
+                "paint": {
+                    "color": "#3F4C6B"
+                },
+                "join": ""
+            },
+            "fill": {
+                "color": "#6BBA70"
+            },
+            "path": "M0.0 62.5 C0.0 27.982 25.967 0.0 58.0 0.0 C90.033 0.0 116.0 27.982 116.0 62.5 C116.0 97.018 90.033 125.0 58.0 125.0 C25.967 125.0 0.0 97.018 0.0 62.5 Z"
+        }
+    ],
+    "framerate": 24
+}, "data": {
+    "swatches": []
+}, "meta": {
+    "id": "3c9a2651507dfc9061bd256d",
+    "author": "",
+    "duration": 2.1,
+    "numberOfScenes": 1,
+    "created": 1361484348308,
+    "description": "",
+    "name": "New Project",
+    "copyright": "",
+    "modified": 1361484348248
+}}
