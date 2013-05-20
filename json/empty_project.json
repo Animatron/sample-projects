@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "4ef3491603640fa60d0a526c",
+    "name": "Empty Project",
+    "author": "",
+    "copyright": "",
+    "version": 0.1,
+    "description": ""
+  },
+  "anim": {
+    "dimension": [ 500.0, 350.0 ],
+    "framerate": 24.0,
+    "background": {
+      "color": "white"
+    },
+    "elements": [
+      {
+        "id": "37382838d7fa59effda07b02",
+        "name": "Scene1"
+      }
+    ],
+    "scenes": [
+      "37382838d7fa59effda07b02"
+    ]
+  }
+}
