@@ -1,4 +1,6 @@
-{
+var anm_scenes = anm_scenes || {};
+
+anm_scenes.play_226 = {
     "meta": {
         "id": "227e025211a9b10ff68d815e",
         "created": 1375895074369,
